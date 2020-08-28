@@ -9,4 +9,4 @@ GSI Jennifer Senta
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/COGSCI-C131-PSYCH-123-FA20/master)
 
-https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FCOGSCI-C131-PSYCH-123-FA20&urlpath=tree%2FCOGSCI-C131-PSYCH-123-FA20%2FPS0%2F&branch=master
+[Week1 Notebook Link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FCOGSCI-C131-PSYCH-123-FA20&urlpath=tree%2FCOGSCI-C131-PSYCH-123-FA20%2FPS0%2F&branch=master)
